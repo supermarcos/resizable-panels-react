@@ -1,3 +1,10 @@
+# RESIZABLE PANELS COMPONENT REACT
+
+This is resizable panel react component.
+It's so far a work in progress and unstable. Bear with me as I'm finishing it in my free time.
+
+:)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
